@@ -60,28 +60,7 @@ Used to display output:
 print("Hello World")
 
 
-
-
- Screenshots and Explanation
-📸 Screenshot 1: Python Overview & IDE Setup
-
-This image provides a quick glance at Python's use cases and how to properly set up Python and VS Code for development.
-
-📸 Screenshot 2: Basic Syntax – Print & Comments
-
-This image highlights basic syntax including how to print output and add both single-line and multi-line comments.
-
-📸 Screenshot 3: VS Code Python Execution
-
-A working example of code written and executed in VS Code, confirming successful setup of the Python environment.
-
 🔗 Connect with Me
 🐦 Twitter (X): https://x.com/nirbhaykkr6/status/1927611518624874863
 
 💼 LinkedIn: https://www.linkedin.com/posts/nirbhay-kumar-32b947262_pythonchallenge-indiandataclub-pythonforbeginners-activity-7333374358008102912-Zk8M
-
-
-
-> ✅ Place your three images (`1.png`, `2.png`, `3.png`) in the same folder as the `README.md` file so they render correctly on GitHub.
-
-Let me know if you'd like a Day 2 template as well!
